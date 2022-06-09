@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Kaju Katli",
+        "imageUrl": "https://media.istockphoto.com/photos/kaju-katli4-picture-id506626263?k=20&m=506626263&s=612x612&w=0&h=5Umd4HtJegnbAUIjxZLLaxpt6rhuwgBKcPeQQB1swwA=",
+        "price": "800" 
+    },
+    {
+        "id": 2,
+        "name": "Barfi",
+        "imageUrl": "https://media.istockphoto.com/photos/pakistani-mithai1-picture-id506731275?k=20&m=506731275&s=612x612&w=0&h=wgksYYqlpFB7EiQDWbIUyOruOUWRYsMpI_R1dB95My8=",
+        "price": "480"
+    },
+    {
+        "id": 3,
+        "name": "Milk Cake",
+        "imageUrl": "https://img.freepik.com/free-photo/mysore-pak-is-indian-sweet-prepared-ghee-it-originated-city-mysuru_466689-71760.jpg?size=626&ext=jpg",
+        "price": "520"
+    },
+    {
+        "id": 4,
+        "name": "Bengali Sweets",
+        "imageUrl": "https://media.istockphoto.com/photos/bengali-sweets-picture-id850613798?k=20&m=850613798&s=612x612&w=0&h=s8RJFFtMXuGPIDx9MiaGL7c8amUuJhGmsRObDr1O7P4=",
+        "price": "600"
+    },
+    {
+        "id": 5,
+        "name": "Gulab Jamun",
+        "imageUrl": "https://img.freepik.com/free-photo/indian-sweet-food-gulab-jamun-served-round-ceramic-bowl_466689-71859.jpg?size=626&ext=jpg&ga=GA1.2.1143480453.1654511949",
+        "price": "360"
+    },
+    {
+        "id": 6,
+        "name": "Shahi Tukda",
+        "imageUrl": "https://media.istockphoto.com/photos/shahi-tukratukda-or-double-ka-meetha-picture-id1152862883?k=20&m=1152862883&s=612x612&w=0&h=wStZDlz68S1WJG5Z4TrYB4p0LiN2XocRnftPojLtwN4=",
+        "price": "800"
+    },
+    {
+        "id": 7,
+        "name": "Carror Pudding",
+        "imageUrl": "https://media.gettyimages.com/photos/homemade-carrot-puddinggajar-halwaindian-dessert-in-a-wooden-bowl-picture-id853350692?k=20&m=853350692&s=612x612&w=0&h=1CVQXLQwHMOFBjy6ie7sqmnGrtFay0X-SLQkMybWjgY=",
+        "price": "460"
+    },
+    {
+        "id": 8,
+        "name": "Besan Laddu",
+        "imageUrl": "https://www.chefspencil.com/wp-content/uploads/Besan-Laddu.jpg.webp",
+        "price": "340"
+    }
+]
